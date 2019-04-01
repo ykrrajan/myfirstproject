@@ -10,8 +10,19 @@ Python
 
 Boot
 
+Angular JS
+
+React JS
+
+Spring
+
+JQuery
+
 
 More to follow...
 
+Changes Done
 
 Keep looking here...
+
+End of the File...
