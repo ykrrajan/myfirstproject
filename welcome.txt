@@ -8,5 +8,9 @@ PhP
 
 Python
 
+Angular JS
+
+React JS
+
 
 More to follow...
